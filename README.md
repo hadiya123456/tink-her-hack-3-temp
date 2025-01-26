@@ -1,4 +1,4 @@
-# [Project Name] 🎯
+# [university event calender] 🎯
 
 
 ## Basic Details
@@ -6,7 +6,7 @@
 
 
 ### Team Members
-- Member 1: [Name] - [College]
+- Member 1: [hadiya hameed] - [SNGCE]
 - Member 2: [Name] - [College]
 - Member 3: [Name] - [College]
 
@@ -25,7 +25,7 @@
 ## Technical Details
 ### Technologies/Components Used
 For Software:
-- [Languages used]
+- [HTML]
 - [Frameworks used]
 - [Libraries used]
 - [Tools used]
